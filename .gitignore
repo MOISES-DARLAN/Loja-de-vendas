@@ -8,4 +8,4 @@ ormconfig.json
 dist
 
 uploads/*
-!uploads/.gitskeep
+!uploads/.git keep
